@@ -1,0 +1,10 @@
+c:\users\áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+c:\users\áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+c:\users\áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+c:\users\áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+c:\users\áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\OMEGA.exe.config
+c:\users\áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\OMEGA.exe
+c:\users\áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\OMEGA.pdb
+c:\users\áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\OMEGA.Properties.Resources.resources
+c:\users\áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\OMEGA.exe
+c:\users\áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\OMEGA.pdb

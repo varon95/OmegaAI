@@ -1,0 +1,20 @@
+C:\Users\Áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Release\OMEGA.exe.config
+C:\Users\Áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Release\OMEGA.exe
+C:\Users\Áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Release\OMEGA.pdb
+C:\Users\Áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Form1.resources
+C:\Users\Áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\OMEGA.Properties.Resources.resources
+C:\Users\Áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\OMEGA.csproj.GenerateResource.cache
+C:\Users\Áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\OMEGA.csproj.CoreCompileInputs.cache
+C:\Users\Áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\OMEGA.exe
+C:\Users\Áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\OMEGA.pdb
+C:\Users\Áron\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\OMEGA.csprojAssemblyReference.cache
+C:\Users\Áron\source\repos\WindowsFormsApp5 másolata (7)\WindowsFormsApp5\bin\Release\OMEGA.exe.config
+C:\Users\Áron\source\repos\WindowsFormsApp5 másolata (7)\WindowsFormsApp5\bin\Release\OMEGA.exe
+C:\Users\Áron\source\repos\WindowsFormsApp5 másolata (7)\WindowsFormsApp5\bin\Release\OMEGA.pdb
+C:\Users\Áron\source\repos\WindowsFormsApp5 másolata (7)\WindowsFormsApp5\obj\Release\OMEGA.csprojAssemblyReference.cache
+C:\Users\Áron\source\repos\WindowsFormsApp5 másolata (7)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Form1.resources
+C:\Users\Áron\source\repos\WindowsFormsApp5 másolata (7)\WindowsFormsApp5\obj\Release\OMEGA.Properties.Resources.resources
+C:\Users\Áron\source\repos\WindowsFormsApp5 másolata (7)\WindowsFormsApp5\obj\Release\OMEGA.csproj.GenerateResource.cache
+C:\Users\Áron\source\repos\WindowsFormsApp5 másolata (7)\WindowsFormsApp5\obj\Release\OMEGA.csproj.CoreCompileInputs.cache
+C:\Users\Áron\source\repos\WindowsFormsApp5 másolata (7)\WindowsFormsApp5\obj\Release\OMEGA.exe
+C:\Users\Áron\source\repos\WindowsFormsApp5 másolata (7)\WindowsFormsApp5\obj\Release\OMEGA.pdb
