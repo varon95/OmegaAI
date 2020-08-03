@@ -9,10 +9,9 @@ Omega is a simple board game, developed by Néstor Romeral Andrés. The game is 
 
 ## General approach
 
-I wrote my program in C# using Microsoft Visual Studio. I generated the board from “Field” object, which is based on the button class to make it clickable. The Field shape are also modified to be hexagonal, then they are added to the user interface to create the board. On click events, they change their background color depending of the number of the previous steps (one step in this case is placing a stone).
-The groups of each color are counted using the Union Find algorithm.
+I wrote my program in C# using Microsoft Visual Studio. I generated the board from “Field” object, which is based on the button class to make it clickable. The Field shape are also modified to be hexagonal, then they are added to the user interface to create the board. On click events, they change their background color depending of the number of the previous steps (one step in this case is placing a stone). The groups of each color are counted using the [Union Find](https://en.wikipedia.org/wiki/Disjoint-set_data_structure) algorithm.
 
-The AI uses NegaMax search with alpha-beta windows. The algorithm starts with alpha by choosing first a black then a white field from the empty fields. Then invites itself, decreasing the depth, negating and switching alpha and beta, and negating the color variable. Then, when depth reaches 0 or a terminal node is reached, it evaluates the node. The evaluation function is for simply the score, whith some added heuristics.
+The AI uses [NegaMax](https://en.wikipedia.org/wiki/Negamax) search with alpha-beta windows. The algorithm starts with alpha by choosing first a black then a white field from the empty fields. Then invites itself, decreasing the depth, negating and switching alpha and beta, and negating the color variable. Then, when depth reaches 0 or a terminal node is reached, it evaluates the node. The evaluation function is for simply the score, whith some added heuristics.
 
 Upon initialization the program calculates the number of possible steps. When a stone is placed, this number is decreased by 1. When there are no more available steps left, the game ends, and a Message Box pops up.
 
