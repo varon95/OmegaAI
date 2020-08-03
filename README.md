@@ -17,5 +17,6 @@ Upon initialization the program calculates the number of possible steps. When a 
 
 ## About the code files
 
-**"Main.cs"** contains the important part of the code, other files are either design related, or class definitions.
+**"Main.cs"** contains the important part of the code, other code files are either design related, or class definitions.
+You can try the game by downloading and running the **Omega.exe** file
 
