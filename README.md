@@ -3,7 +3,7 @@
 
 Omega is a simple board game, developed by Néstor Romeral Andrés. The game is played on a board made of hexagonal fields, and the shape of the board is also a hexagon. The game can be played by two players, white (player 1) and black (player 2). The players take turns, in each turn, player one places two stones on the board, one black and one white. Then the second player does the same. This continues, until there is not enough empty space for both players to place stones. The score is then calculated by multiplying the sizes of the groups of the same colours.
 
-## Demo
+## Demo (Video)
 
 [![Omega AI demo](http://img.youtube.com/vi/YcAqGhwUx5o/0.jpg)](http://www.youtube.com/watch?v=YcAqGhwUx5o "")
 
